@@ -1,5 +1,5 @@
 # Fleur-Lunaris
-# 🌙 Lunaris AOSP for Xiaomi Redmi Note 11 (fleur)
+# 🌙 Lunaris AOSP for Xiaomi Redmi Note 11 / Poco M4 Pro 4g (fleur)
 
 <p align="center">
   <img src="https://img.shields.io/github/v/release/gachanxd/Fleur-Lunaris?style=for-the-badge&logo=android" />
@@ -49,7 +49,7 @@ to grab the latest build:
 |--------------------|------------------------------------------|
 | Device             | Xiaomi Redmi Note 11 (*fleur*)           |
 | Maintainer         | [@gachanxd](https://github.com/gachanxd) |
-| Android Version    | 13 (AOSP)                                |
+| Android Version    | 16 (AOSP)                                |
 | Build Type         | Community + GApps                        |
 | Status             | Stable ✅                                |
 
